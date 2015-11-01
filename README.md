@@ -11,3 +11,4 @@ Updates:
 * Server sucessfully sends chunck data to client
 * MC 1.8 protocol ~40% implemented successfully
 * MC 1.8.8 protocol??????
+* MC 1.8.8.8 protocol??????
